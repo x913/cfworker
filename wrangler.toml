@@ -1,0 +1,7 @@
+name = "html-injector"
+type = "javascript"
+account_id = "4ccfda2519a9b235abe6a30cf8a04fb7"
+compatibility_date = "2025-07-02"
+
+[build]
+upload.format = "modules"
